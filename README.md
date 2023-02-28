@@ -5,9 +5,9 @@
 - 🏫 UESTC
 
 <div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
+
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%234fc08d?logo=vue.js&style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-%233776ab?logo=python&style=for-the-badge&logoColor=white)
   
 </div>   
 <p align="center">
