@@ -1,6 +1,6 @@
 ### About me
 
-- 💼 FrontEnd Engineer
+- 💼 Software Engineer
 
 - 🏫 UESTC
 
